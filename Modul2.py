@@ -4,11 +4,11 @@ print(3-1)
 print(2*1)
 print(2/1)
 print(2**1)
-print(4//2)
+print(4.5//2)
 print(5%2)
 #** är att höja upp talet
-#// är rooten ur
-#% ger resten 
+#// är heltasdivition
+#% är modulo
 förnamn= input("Vad är ditt förnamn?")
 efternamn= input("Vad är ditt efternamn?")
 age= input("Hur gammal är du?")
